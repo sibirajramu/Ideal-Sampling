@@ -1,11 +1,15 @@
 IDEAL SAMPLING
+
 AIM:
+
 To perform Construction and Re-Construction of impulse or ideal sampling using python
 
 APPARATUS REQUIRED:
+
 Python IDE with Numpy and Scipy
 
 CODE:
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -48,4 +52,5 @@ OUTPUT:
 ![ideal sampling 3](https://github.com/user-attachments/assets/995c1f15-d04c-411e-8cae-bb98b5e359bd)
 
 RESULT:
+
 The Construction or Re-Construction of impulse or ideal sampling using python are verified
