@@ -8,7 +8,7 @@ APPARATUS REQUIRED:
 
 Python IDE with Numpy and Scipy
 
-CODE:
+##CODE:
 
 import numpy as np 
 import matplotlib.pyplot as plt
