@@ -9,7 +9,7 @@ To perform Construction and Re-Construction of impulse or ideal sampling using p
 Python IDE with Numpy and Scipy
 
 ## **CODE:**
-
+```
 import numpy as np 
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -45,6 +45,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
+```
 
 ## **OUTPUT:**
 
