@@ -1,14 +1,14 @@
-IDEAL SAMPLING
+## **IDEAL SAMPLING**
 
-AIM:
+## **AIM:**
 
 To perform Construction and Re-Construction of impulse or ideal sampling using python
 
-APPARATUS REQUIRED:
+## **APPARATUS REQUIRED:**
 
 Python IDE with Numpy and Scipy
 
-##CODE:
+## **CODE:**
 
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -46,12 +46,12 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-OUTPUT:
+## **OUTPUT:**
 
 ![ideal sampling 1](https://github.com/user-attachments/assets/601cf20a-75f3-4149-873e-90f9ee08e4f2)
 ![ideal sampling 2](https://github.com/user-attachments/assets/45344ff9-4877-4bfa-8abb-1109a86900c8)
 ![ideal sampling 3](https://github.com/user-attachments/assets/995c1f15-d04c-411e-8cae-bb98b5e359bd)
 
-RESULT:
+## **RESULT:**
 
 The Construction or Re-Construction of impulse or ideal sampling using python are verified
